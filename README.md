@@ -1,7 +1,7 @@
 # Hola, mi nombre es Irene Badía 👋
 ### Data Scientist and PhD in Chemistry from UMA 
 
-![https://github.com/IreneBD](https://github.com/IreneBD/IreneBD/blob/main/Portada.png)
+![https://github.com/IreneBD](https://github.com/IreneBD/IreneBD/blob/main/portada.png)
 
 Soy doctora en Química-Física desde noviembre de 2022 por la Universidad de Málaga. Durante los años de la tesis, me especialicé en química computacional utilizando superordenadores para la simulación teórica de una gran variedad de sistemas químicos. El objetivo principal de la química teórica es predecir todo tipo de propiedades (estructurales, moleculares, electrónicas...) de sistemas químicos de cara a su uso en distintas aplicaciones. Gracias al estudio de estas simulaciones computacionales podemos reducir costes de producción, predecir la eficiencia que pueden presentar los materiales o minimizar los efectos secundarios que pueden ser dañinos al ser humano y/o al medio ambiente (Química Verde).
 
