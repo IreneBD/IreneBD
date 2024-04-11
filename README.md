@@ -8,8 +8,12 @@ Soy doctora en Química-Física desde noviembre de 2022 por la Universidad de M�
 Desde el curso académico 2020-2021 he participado en el Proyecto Educativo ScienceIES (PIIISA) con la investigación titulada “Química computacional para un mundo más sostenible” donde he impartido talleres de divulgación científica enfocadas a que los adolescentes conozcan los cálculos teóricos. :green_heart:
 
 ## Toolbox 💻
+`Python`, 
+`Numpy`, `Pandas`, `BeautifulSoup`, `Selenium`, `Matplotlib`, `Statsmodels`, `Scikit-learn` 
+`Git`, `Github`, `Kraken`
 
-![logo-numpy](https://iconos8.es/icon/aR9CXyMagKIS/numpy)
+#### Work on progress... 💡
+`SQL`, `Docker`, `Kubernetes`
 
 <!--
 **IreneBD/IreneBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
